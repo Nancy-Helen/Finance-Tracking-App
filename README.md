@@ -18,12 +18,12 @@ view **summaries**, and analyze your spending with **charts**.
 
 ## 📂 Project Structure
 
-expense-chat-2/
-├── app.py # Main app navigation
-├── db.py # Database
-├── requirements.txt # Required Python libraries
+expense-chat-2/  
+├── app.py # Main app navigation  
+├── db.py # Database  
+├── requirements.txt # Required Python libraries 
 └── README.md # Project documentation
-
+ 
 ## 🛠 Installation
 
 ### 1️⃣ Clone the Repository
