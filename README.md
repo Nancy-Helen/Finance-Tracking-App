@@ -4,7 +4,6 @@ A simple, interactive **Streamlit-based** finance tracking app built in Python.
 This app allows you to **record, edit, delete, and view** your financial transactions,  
 view **summaries**, and analyze your spending with **charts**.
 
----
 
 ## 🚀 Features
 
